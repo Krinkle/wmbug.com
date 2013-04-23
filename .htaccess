@@ -1,0 +1,9 @@
+AddDefaultCharset UTF-8
+
+Redirect 301 /new https://bugzilla.wikimedia.org/enter_bug.cgi
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule ^/*$ https://bugzilla.wikimedia.org/ [R=301,L]
+RewriteRule ^/?(\d+)$ https://bugzilla.wikimedia.org/show_bug.cgi?id=$1 [QSA,R=301,L]
+</IfModule>
