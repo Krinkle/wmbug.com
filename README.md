@@ -12,7 +12,7 @@
 ## Features
 
 * Query parameters preserved:<br>
-  https://wmbug.com/new?product=VisualEditor
+  https://wmbug.com/new?project=VisualEditor
 
 ## See also
 * http://crbug.com
