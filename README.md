@@ -3,16 +3,16 @@
 ## Redirects
 
 * Issue tracker home page:<br>
-  http://wmbug.com
+  https://wmbug.com
 * Issue IDs:<br>
-  http://wmbug.com/1
+  https://wmbug.com/1
 * New issue:<br>
-  http://wmbug.com/new
+  https://wmbug.com/new
 
 ## Features
 
 * Query parameters preserved:<br>
-  http://wmbug.com/new?product=VisualEditor
+  https://wmbug.com/new?product=VisualEditor
 
 ## See also
 * http://crbug.com
