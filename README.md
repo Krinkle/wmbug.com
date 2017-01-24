@@ -4,8 +4,10 @@
 
 * Issue tracker home page:<br>
   https://wmbug.com
-* Issue IDs:<br>
+* BugZilla bug number (for bugzilla.wikimedia.org):<br>
   https://wmbug.com/1
+* Maniphest Task ID (for phabricator.wikimedia.org):<br>
+  https://wmbug.com/T1
 * New issue:<br>
   https://wmbug.com/new
 
