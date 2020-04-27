@@ -19,6 +19,6 @@
   https://wmbug.com/new?project=VisualEditor
 
 ## See also
-* http://crbug.com
-* http://wkbug.com
+* https://crbug.com
+* ~`http://wkbug.com`~
 * http://jqbug.com
